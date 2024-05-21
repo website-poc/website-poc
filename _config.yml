@@ -155,7 +155,7 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Nice meeting you!"
+    heading: ""
     subheading: ""
     banner: ""
 
