@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: Kontakt
 ---
 
 Friedrich Hartlieb Bauunternehmung GmbH + Co. KG 
