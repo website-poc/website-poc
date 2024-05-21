@@ -11,7 +11,7 @@ Stegwiesenstraße 10
 
 Telefon: 07251 97 94 0
 
-Mail: info@hartlieb-bruchsal.de
+Mail: [info@hartlieb-bruchsal.de](info@hartlieb-bruchsal.de)
 
 <p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/website-poc/website-poc.github.io/master/assets/images/banners/location.png"
