@@ -4,6 +4,8 @@ title: Datenschutz
 ---
 
 **Unsere Datenschutzerklärung**
+<br>
+
 Diese Datenschutzerklärung informiert über die Verarbeitung personenbezogener Daten auf unserer Webseite www.hartlieb-bruchsal.de. Verantwortlicher: Michael Hartlieb Stegwiesenstraße 10, 76646 Bruchsal Tel. 07251/979424 info@hartlieb-bruchsal.de
 
 Wir erheben und verwenden personenbezogene Daten unserer Nutzer grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen Webseite erforderlich ist.
